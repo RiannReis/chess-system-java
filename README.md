@@ -2,7 +2,7 @@
 
 >Project- Game of Chess in Java
 
->JavaCompleto 2023 Course - Objective-Oriented Programming from Prof: Nelio Alves
+>JavaCompleto 2023 Course - Object-Oriented Programming from Prof: Nelio Alves
 ---
 ## Description
 A simple implementation of user interaction in the console mode of the Chess game, with game logic, exception handling and user interface.
@@ -32,6 +32,3 @@ Use the layering pattern to understand how game logic and game composition work.
 
 3. Git
 * How Git/ GitHub works, how to use it, and I'm also reading the Pro Git book and intend to use it to delve deeper into it and use it for future reference and further learning.
-
-## Project Status
-**Done!**
